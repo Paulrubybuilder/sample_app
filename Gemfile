@@ -55,5 +55,5 @@ group :test do
 end
 
 group :development, :test do
-  gem 'rspec-rails', '2.13.1'
+  gem 'rspec-rails'
 end

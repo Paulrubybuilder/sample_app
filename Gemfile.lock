@@ -187,7 +187,7 @@ DEPENDENCIES
   pg (= 0.15.1)
   rails (= 4.2.6)
   rails_12factor (= 0.0.2)
-  rspec-rails (= 2.13.1)
+  rspec-rails
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
   selenium-webdriver (= 2.35.1)
